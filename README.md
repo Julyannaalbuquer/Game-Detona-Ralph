@@ -10,7 +10,7 @@ Bem-vindo ao **Game Detona Ralph** Neste repositório, você encontrará um jogo
 
 ### Como Jogar❓
 
-1. Clique nesse [Link]().
+1. Clique nesse [Link](https://julyannaalbuquer.github.io/Game-Detona-Ralph/).
 2. Use as setas direcionais para mover o personagem e a barra de espaço para interagir.
 2. Divirta-se explorando e coletando moedas, mas fique atento aos inimigos!
 
